@@ -1,4 +1,4 @@
-# Differential_Band_Brake
+# Differential_Band_Brake_System
 Under the band_brake_class module, a class is defined. In this class, the following are taken as input from the user:
 1. Material of band
 2. Tensile stress
